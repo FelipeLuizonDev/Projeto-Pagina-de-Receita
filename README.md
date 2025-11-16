@@ -53,9 +53,7 @@ A página contém:
    git clone seu-repo-aqui
 
 2. Abra o arquivo index.html no navegador:
-   Open with Live Server (VS Code) 
-   ou  
-   clique duas vezes no arquivo
+   Open with Live Server (VS Code) ou clique duas vezes no arquivo
 
 ## 📸 Prévia da Página
 
