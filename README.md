@@ -50,7 +50,7 @@ A página contém:
 
 1. Baixe ou clone o repositório:
    ```bash
-   git clone seu-repo-aqui
+   git clone https://github.com/FelipeLuizonDev/Projeto-Pagina-de-Receita
 
 2. Abra o arquivo index.html no navegador:
    Open with Live Server (VS Code) ou clique duas vezes no arquivo
